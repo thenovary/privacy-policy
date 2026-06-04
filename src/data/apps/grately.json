@@ -25,11 +25,11 @@
     "android"
   ],
   "status": {
-    "ko": "출시 예정",
-    "en": "Coming Soon"
+    "ko": "신규",
+    "en": "New"
   },
   "links": {
-    "appStore": "",
+    "appStore": "https://apps.apple.com/app/grately/id6762518639",
     "googlePlay": ""
   },
   "privacy": {

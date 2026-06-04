@@ -1,0 +1,237 @@
+{
+  "slug": "melo",
+  "order": 7,
+  "icon": "/icons/melo.png",
+  "name": {
+    "default": "Melo",
+    "ko": "Melo",
+    "en": "Melo",
+    "ja": "Melo"
+  },
+  "tagline": {
+    "ko": "오늘의 기분에 반응하는 작은 감정 친구 앱",
+    "en": "A tiny feeling companion that reacts to your day"
+  },
+  "description": {
+    "ko": "Melo는 하루의 기분을 기록하면 작은 액솔로틀 친구가 표정, 대사, 오라로 반응하는 무드 저널링 앱입니다.\n\nToday 화면에서는 7가지 기분 중 오늘의 감정을 고르고, 최근 기록에 따라 달라지는 Mood Aura와 Melo의 반응을 볼 수 있습니다. 기록이 쌓이면 관계감과 성장 단계가 이어지고, Records에서는 기분 달력과 흐름을 부드럽게 돌아볼 수 있습니다.\n\nMelo에는 감정 기록만 있는 것이 아니라 Today Plan도 함께 들어 있습니다. 오늘 할 일, 내일 할 일, 반복 루틴을 나눠 적고 체크할 수 있어 감정과 작은 돌봄 루틴을 한 앱 안에서 이어갈 수 있습니다.\n\nShop과 Settings에서는 컬러 스킨, 앱 아이콘, 테마 색상, 언어, 이름과 생일, 알림 시간, 백업 내보내기·가져오기 같은 설정을 관리할 수 있습니다. 현재 Melo는 7일 무료 체험과 평생 패스 흐름을 포함한 출시 준비 단계이며, 일부 기능은 프리미엄 접근 상태에 따라 달라질 수 있습니다.",
+    "en": "Melo is a mood journaling app where a tiny axolotl companion reacts to your day through expressions, lines, and aura changes.\n\nOn the Today screen, you choose one of seven moods for the day, and Melo responds with a matching reaction while the Mood Aura shifts based on your recent records. As more days are saved, the bond and growth stages continue to build, and the Records view lets you revisit your mood calendar and patterns in a softer way.\n\nMelo also includes a Today Plan flow alongside mood check-ins. You can separate today's tasks, tomorrow's tasks, and repeating routines so that emotions and small care habits live together in one app.\n\nShop and Settings cover color skins, app icons, theme colors, language, names and birthday, reminder timing, and backup export/import. Melo is currently still preparing for launch and already includes a 7-day trial flow and a lifetime pass path, so some features may vary depending on premium access."
+  },
+  "screenshots": {
+    "ko": 0,
+    "en": 0
+  },
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "status": {
+    "ko": "출시 예정",
+    "en": "Coming Soon"
+  },
+  "links": {
+    "appStore": "",
+    "googlePlay": ""
+  },
+  "support": {
+    "email": "infodeskline@gmail.com",
+    "sections": [
+      {
+        "title": {
+          "ko": "앱 문의",
+          "en": "App Inquiries"
+        },
+        "content": {
+          "ko": "Melo는 출시 준비 중인 감정 기록 앱입니다. 기능, 출시 일정, 테스트 관련 문의가 있으면 이메일로 연락해 주세요.",
+          "en": "Melo is a mood journaling app currently preparing for launch. If you have questions about features, launch timing, or testing, please contact us by email."
+        }
+      },
+      {
+        "title": {
+          "ko": "현재 앱 흐름",
+          "en": "Current App Flow"
+        },
+        "content": {
+          "ko": "현재 Melo에서는 하루 한 번의 기분 기록, Melo 반응과 오라 변화, Today Plan의 투두/루틴 관리, Records의 감정 기록 확인, Shop의 컬러 스킨과 앱 아이콘 선택, Settings의 알림과 백업/복원 설정 흐름이 구현되어 있습니다.",
+          "en": "The current Melo build includes daily mood check-ins, Melo reactions and aura changes, Today Plan todo/routine management, Records history views, Shop-based skin and app-icon choices, and Settings flows for reminders and backup restore."
+        }
+      },
+      {
+        "title": {
+          "ko": "출시 상태",
+          "en": "Launch Status"
+        },
+        "content": {
+          "ko": "현재 Melo는 App Store와 Google Play 공개 전 단계에 있으며, 스토어 링크와 최종 상품 구성은 출시 준비가 완료되면 업데이트될 예정입니다.",
+          "en": "Melo is currently in pre-launch preparation for the App Store and Google Play. Store links and final product details will be updated when launch preparation is complete."
+        }
+      }
+    ]
+  },
+  "privacy": {
+    "lastUpdated": {
+      "ko": "2026년 6월 4일",
+      "en": "June 4, 2026"
+    },
+    "sections": [
+      {
+        "title": {
+          "ko": "개요",
+          "en": "Overview"
+        },
+        "content": {
+          "ko": "Melo는 하루의 기분 기록, 작은 계획 관리, 캐릭터 반응, 감정 기록 회고를 돕는 모바일 앱입니다. 현재 별도 회원가입을 요구하지 않으며, 이용자가 만든 대부분의 앱 데이터는 기기 내부에 로컬로 저장됩니다. Melo는 정식 출시 전 단계이며, 앱스토어 공개 전까지 thenovary 포트폴리오를 통해 먼저 소개되고 있습니다.",
+          "en": "Melo is a mobile app designed for daily mood check-ins, small plan management, companion reactions, and emotional reflection. It currently does not require a separate account, and most app data created by the user is stored locally on the device. Melo is still pre-launch and is being introduced through the thenovary portfolio before public store release."
+        }
+      },
+      {
+        "title": {
+          "ko": "기기에서 처리되는 정보",
+          "en": "Information Processed on Your Device"
+        },
+        "content": {
+          "ko": "Melo는 사용자가 선택한 하루의 기분 기록, Today Plan의 할 일과 반복 루틴, 선택한 스킨·앱 아이콘·테마 색상·언어, Melo 이름과 사용자 이름, 생일, 방문 streak, 마지막 방문일, 알림 사용 여부와 시간, 무료 체험 시작 시점, 평생 패스 보유 상태, 리뷰 요청 표시 상태 등의 정보를 기기 내에서 처리할 수 있습니다.\n이 정보는 앱 기능 제공을 위해 주로 SharedPreferences와 같은 로컬 저장 영역에서 관리되며, 개발자가 이를 별도의 개발자 운영형 계정 서버나 클라우드 데이터베이스로 직접 수집하지 않습니다.",
+          "en": "Melo may process information such as your daily mood records, Today Plan tasks and repeating routines, selected skins, app icons, theme colors, language settings, companion name, user name, birthday, visit streak, last visit date, reminder status and time, trial start time, lifetime-pass status, and review-prompt state on your device.\nThis information is managed mainly through local device storage such as SharedPreferences in order to provide app functionality. The developer does not directly collect this data into a separate developer-operated account system or cloud database."
+        }
+      },
+      {
+        "title": {
+          "ko": "알림, 백업, 공유 및 파일 접근",
+          "en": "Notifications, Backup, Sharing, and File Access"
+        },
+        "content": {
+          "ko": "Melo는 매일 리마인더를 제공하기 위해 알림 권한을 요청할 수 있습니다. 사용자가 알림을 허용하면 설정한 시간에 로컬 알림이 예약될 수 있습니다.\n또한 백업 내보내기와 가져오기 기능을 위해 기기 저장소 또는 파일 선택 기능을 사용할 수 있으며, 백업 파일은 ZIP 안에 JSON 데이터 형태로 준비되거나 복원될 수 있습니다. 이용자가 직접 내보낸 백업 파일을 공유하는 경우, 해당 파일은 사용자가 선택한 대상 앱이나 저장 위치로 전달될 수 있습니다.",
+          "en": "Melo may request notification permission in order to provide daily reminders. If notifications are allowed, local reminders may be scheduled for the time you choose.\nMelo may also use device storage or file-picker functionality for backup export and import. Backup files may be prepared or restored as ZIP archives containing JSON data. If you explicitly share an exported backup file, it may be passed to the app or storage location you select."
+        }
+      },
+      {
+        "title": {
+          "ko": "위젯 및 플랫폼 기능",
+          "en": "Widgets and Platform Features"
+        },
+        "content": {
+          "ko": "Melo는 일부 플랫폼에서 홈 화면 위젯과 상태 동기화 기능을 제공할 수 있습니다. 현재 iOS에서는 위젯 표시를 위해 사용자 이름, Melo 이름, 선택한 스킨, 성장 단계, 최근 기분 기록, 언어 코드와 같은 일부 상태 정보가 앱과 위젯 사이에서 동기화될 수 있습니다.\n또한 앱은 인앱 리뷰 요청, 앱 아이콘 변경, 운영체제 알림 기능과 같은 플랫폼 기능을 사용할 수 있습니다.",
+          "en": "Melo may provide home-screen widget and state-sync features on supported platforms. On iOS, some state information—such as user name, companion name, selected skin, growth stage, recent mood history, and language code—may be synchronized between the app and the widget in order to render widget content.\nThe app may also use platform features such as in-app review prompts, alternate app icons, and operating-system notification services."
+        }
+      },
+      {
+        "title": {
+          "ko": "결제와 제3자 서비스",
+          "en": "Payments and Third-Party Services"
+        },
+        "content": {
+          "ko": "Melo는 평생 패스 구매 및 복원을 위해 Apple App Store 또는 Google Play Billing과 같은 플랫폼 결제 기능에 의존할 수 있습니다. 해당 플랫폼 또는 제3자 제공자는 각자의 정책에 따라 기기 정보, 결제 정보, 기술적 앱 사용 정보를 처리할 수 있습니다. Melo는 결제 처리 자체를 별도의 개발자 서버에서 수행하지 않습니다.",
+          "en": "Melo may rely on platform billing systems such as the Apple App Store or Google Play Billing for lifetime-pass purchases and restoration. These platform or third-party providers may process device, billing, and technical app-usage information under their own policies. Melo does not process billing itself through a separate developer-operated server."
+        }
+      },
+      {
+        "title": {
+          "ko": "데이터 저장 및 삭제",
+          "en": "Data Storage and Deletion"
+        },
+        "content": {
+          "ko": "Melo의 감정 기록, 투두, 스킨과 테마 설정, 이름과 생일 정보, 알림 설정 등 대부분의 앱 데이터는 이용자의 기기에 로컬로 저장됩니다. 이용자가 앱을 삭제하거나 기기를 초기화하면 이러한 로컬 데이터가 함께 삭제되거나 복구되지 않을 수 있습니다. 개발자는 현재 이용자 데이터를 위한 별도의 클라우드 동기화 또는 복구 서비스를 제공하지 않습니다.",
+          "en": "Most Melo app data—such as mood records, todos, skin and theme settings, names and birthday information, and reminder preferences—is stored locally on the user's device. If you delete the app or reset the device, that local data may be removed and may not be recoverable. The developer does not currently provide a separate cloud sync or recovery service for user data."
+        }
+      },
+      {
+        "title": {
+          "ko": "문의",
+          "en": "Contact"
+        },
+        "content": {
+          "ko": "개인정보 관련 문의는 infodeskline@gmail.com 으로 연락해 주세요.",
+          "en": "For privacy-related questions, please contact infodeskline@gmail.com."
+        }
+      }
+    ]
+  },
+  "terms": {
+    "lastUpdated": {
+      "ko": "2026년 6월 4일",
+      "en": "June 4, 2026"
+    },
+    "sections": [
+      {
+        "title": {
+          "ko": "서비스 개요",
+          "en": "Service Overview"
+        },
+        "content": {
+          "ko": "Melo는 하루의 감정을 기록하고, 작은 액솔로틀 친구의 반응과 함께 자신의 리듬을 돌아보는 모바일 앱입니다. 현재 서비스에는 하루 기분 기록, Mood Aura, 성장 단계와 관계감 표현, Today Plan의 할 일/내일 할 일/루틴 관리, Records의 감정 회고, Shop의 스킨 및 앱 아이콘 선택, Settings의 리마인더와 백업/복원 흐름이 포함될 수 있습니다.\nMelo는 웰니스와 자기돌봄을 위한 앱이며, 의료적 진단, 심리 치료, 정신건강 상담 또는 응급 서비스를 대체하지 않습니다.",
+          "en": "Melo is a mobile app for recording your daily mood and reflecting on your rhythm through the reactions of a tiny axolotl companion. The current service may include daily mood check-ins, Mood Aura, growth and bond expression, Today Plan task/routine management, Records-based review, Shop-based skin and app-icon choices, and Settings flows for reminders and backup restore.\nMelo is intended for wellness and self-reflection and does not replace medical diagnosis, mental-health treatment, counseling, or emergency services."
+        }
+      },
+      {
+        "title": {
+          "ko": "이용권",
+          "en": "License to Use the Service"
+        },
+        "content": {
+          "ko": "thenovary는 이용자에게 개인적이고 비상업적인 목적 범위에서, 이용자가 적법하게 보유하거나 관리하는 기기에서 Melo를 사용할 수 있는 제한적이고 비독점적이며 양도 불가능한 이용권을 부여합니다.",
+          "en": "thenovary grants you a limited, non-exclusive, non-transferable license to use Melo on devices you lawfully own or control, solely for personal and non-commercial purposes."
+        }
+      },
+      {
+        "title": {
+          "ko": "무료 체험과 평생 패스",
+          "en": "Free Trial and Lifetime Pass"
+        },
+        "content": {
+          "ko": "현재 Melo의 앱 흐름에는 7일 무료 체험과 평생 패스 안내가 포함될 수 있습니다. 무료 체험이 끝난 뒤에도 일부 기본 기능은 계속 이용할 수 있지만, 전체 기록 보기, 컬러 스킨, 추가 앱 아이콘, 테마, 성장 외형, 더 자세한 회고와 같은 일부 기능은 평생 패스 접근 상태에 따라 달라질 수 있습니다.\n실제 결제, 청구, 복원, 환불, 가격, 상품 구성은 정식 출시 시점의 앱 내 표시와 Apple App Store 또는 Google Play 정책을 기준으로 적용될 수 있습니다.",
+          "en": "The current Melo flow may include a 7-day trial and a lifetime-pass path. After the trial ends, some core functionality may remain available, but features such as full history access, color skins, additional app icons, themes, growth looks, and more detailed reflections may vary depending on lifetime-pass access.\nActual billing, restoration, refunds, pricing, and product configuration may follow the in-app listing and the policies of the Apple App Store or Google Play when the released version goes live."
+        }
+      },
+      {
+        "title": {
+          "ko": "이용자 콘텐츠와 로컬 저장",
+          "en": "User Content and Local Device Storage"
+        },
+        "content": {
+          "ko": "이용자는 Melo에서 선택한 기분 기록, Today Plan의 투두와 루틴, 이름과 프로필 정보, 설정값, 저장 또는 공유한 백업 파일 등 자신의 이용 결과에 대해 책임을 집니다. Melo의 대부분의 앱 데이터는 기기에 로컬로 저장되므로, 기기 변경, 앱 삭제, 저장공간 부족, 운영체제 오류 등으로 발생하는 데이터 손실 가능성에 대해 이용자가 주의해야 합니다.\nMelo는 현재 이용자 데이터를 위한 개발자 운영형 클라우드 동기화 또는 복구 서비스를 제공하지 않습니다.",
+          "en": "You are responsible for your use of Melo, including mood records, Today Plan todos and routines, names and profile information, settings, and any backup files you save or share. Because most Melo app data is stored locally on the device, you are responsible for risks related to device changes, app deletion, insufficient storage, or operating-system errors that may result in data loss.\nMelo does not currently provide a developer-operated cloud sync or recovery service for user data."
+        }
+      },
+      {
+        "title": {
+          "ko": "권한과 기기 기능",
+          "en": "Permissions and Device Features"
+        },
+        "content": {
+          "ko": "Melo는 알림 제공을 위한 알림 권한, 백업 파일 내보내기와 가져오기를 위한 파일 선택 및 저장 기능, 위젯 연동, 앱 아이콘 변경, 인앱 리뷰 요청 등 기기 또는 플랫폼 기능을 사용할 수 있습니다. 이용자가 필요한 권한을 허용하지 않으면 일부 기능이 제한되거나 정상적으로 동작하지 않을 수 있습니다.",
+          "en": "Melo may use device or platform features such as notification permission for reminders, file-selection and storage access for backup export and import, widget integration, alternate app icons, and in-app review prompts. If you do not grant the required permissions, some features may be limited or may not function properly."
+        }
+      },
+      {
+        "title": {
+          "ko": "금지행위",
+          "en": "Prohibited Conduct"
+        },
+        "content": {
+          "ko": "이용자는 Melo의 정상적인 운영을 방해하거나, 유료 또는 제한 기능을 비정상적으로 우회하거나, 무단 접근을 시도하거나, 관련 법령이 허용하는 범위를 넘는 역분석을 하거나, 앱 내 콘텐츠와 디자인 자산을 무단 복제 또는 상업적으로 재사용해서는 안 됩니다.",
+          "en": "You may not interfere with the normal operation of Melo, improperly bypass paid or limited-access features, attempt unauthorized access, reverse engineer the service beyond what applicable law permits, or copy or commercially reuse in-app content or design assets without authorization."
+        }
+      },
+      {
+        "title": {
+          "ko": "서비스 변경 및 중단",
+          "en": "Service Changes and Suspension"
+        },
+        "content": {
+          "ko": "thenovary는 Melo의 출시 준비와 운영을 위해 기능, 감정 문구, 시각 요소, 공개 일정, 상품 구성, 가격, 스토어 정보를 수정, 제한, 연기 또는 중단할 수 있습니다. 유지보수, 운영체제 정책, 앱마켓 정책, 제3자 서비스 상태 등에 따라 일부 기능은 일시적으로 또는 지속적으로 제공되지 않을 수 있습니다.",
+          "en": "thenovary may modify, limit, postpone, or discontinue Melo's features, mood copy, visual elements, release timing, product configuration, pricing, or store information as part of launch preparation and service operation. Certain features may be unavailable temporarily or permanently due to maintenance, operating-system policies, app-marketplace policies, or third-party service conditions."
+        }
+      },
+      {
+        "title": {
+          "ko": "콘텐츠 및 지식재산",
+          "en": "Content and Intellectual Property"
+        },
+        "content": {
+          "ko": "Melo에 포함된 앱 컨셉, 캐릭터, 대사, UI, 시각 요소, 아이콘, 오라 표현, 관련 디자인 자산 및 소스 코드의 권리는 thenovary 또는 각 권리자에게 있습니다. 별도 허가 없이 이를 복제, 배포, 판매, 수정하거나 상업적으로 재사용할 수 없습니다.",
+          "en": "The app concept, character, lines, UI, visual elements, icons, aura expressions, related design assets, and source code contained in Melo belong to thenovary or the respective rights holders. They may not be copied, distributed, sold, modified, or commercially reused without permission."
+        }
+      }
+    ]
+  },
+  "licenses": []
+}
