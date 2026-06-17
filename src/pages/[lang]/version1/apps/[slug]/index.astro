@@ -25,6 +25,16 @@ const tagline = app.tagline?.[lang] ?? app.tagline?.['en'] ?? '';
 const platformsNote = app.platformsNote?.[lang] ?? app.platformsNote?.['en'] ?? '';
 const isWebProject = app.projectType === 'web';
 const websiteUrl = app.links?.website ?? '';
+const appStoreUrl =
+  (lang === 'ko' ? app.links?.appStoreKo : undefined) ??
+  (lang === 'en' ? app.links?.appStoreEn : undefined) ??
+  app.links?.appStore ??
+  '';
+const googlePlayUrl =
+  (lang === 'ko' ? app.links?.googlePlayKo : undefined) ??
+  (lang === 'en' ? app.links?.googlePlayEn : undefined) ??
+  app.links?.googlePlay ??
+  '';
 const hasWebsite = typeof websiteUrl === 'string' && websiteUrl.trim().length > 0;
 const status = app.status?.[lang] ?? app.status?.['en'] ?? '';
 
@@ -70,8 +80,8 @@ const screenshots = Array.from({ length: screenshotCount }, (_, i) => `/${app.sl
             )
           ) : (
             <>
-              {app.links?.appStore ? (
-                <a href={app.links.appStore} class="btn btn-secondary download-btn" target="_blank" rel="noopener noreferrer">
+              {appStoreUrl ? (
+                <a href={appStoreUrl} class="btn btn-secondary download-btn" target="_blank" rel="noopener noreferrer">
                   <span class="download-label">{t(lang, 'app.downloadOn')}</span>
                   <span class="download-store">{t(lang, 'app.appStore')}</span>
                 </a>
@@ -81,8 +91,8 @@ const screenshots = Array.from({ length: screenshotCount }, (_, i) => `/${app.sl
                   <span class="download-store">{t(lang, 'app.appStore')}</span>
                 </span>
               )}
-              {app.links?.googlePlay ? (
-                <a href={app.links.googlePlay} class="btn btn-secondary download-btn" target="_blank" rel="noopener noreferrer">
+              {googlePlayUrl ? (
+                <a href={googlePlayUrl} class="btn btn-secondary download-btn" target="_blank" rel="noopener noreferrer">
                   <span class="download-label">{t(lang, 'app.downloadOn')}</span>
                   <span class="download-store">{t(lang, 'app.googlePlay')}</span>
                 </a>
@@ -141,8 +151,8 @@ const screenshots = Array.from({ length: screenshotCount }, (_, i) => `/${app.sl
         </a>
       ) : (
         <>
-          {app.links?.appStore ? (
-            <a href={app.links.appStore} class="btn btn-secondary download-btn" target="_blank" rel="noopener noreferrer">
+          {appStoreUrl ? (
+            <a href={appStoreUrl} class="btn btn-secondary download-btn" target="_blank" rel="noopener noreferrer">
               <span class="download-label">{t(lang, 'app.downloadOn')}</span>
               <span class="download-store">{t(lang, 'app.appStore')}</span>
             </a>
@@ -152,8 +162,8 @@ const screenshots = Array.from({ length: screenshotCount }, (_, i) => `/${app.sl
               <span class="download-store">{t(lang, 'app.appStore')}</span>
             </span>
           )}
-          {app.links?.googlePlay ? (
-            <a href={app.links.googlePlay} class="btn btn-secondary download-btn" target="_blank" rel="noopener noreferrer">
+          {googlePlayUrl ? (
+            <a href={googlePlayUrl} class="btn btn-secondary download-btn" target="_blank" rel="noopener noreferrer">
               <span class="download-label">{t(lang, 'app.downloadOn')}</span>
               <span class="download-store">{t(lang, 'app.googlePlay')}</span>
             </a>
